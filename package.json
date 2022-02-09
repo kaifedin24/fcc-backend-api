@@ -4,6 +4,7 @@
 	"description": "Trying to speedrun this challenge",
 	"keywords": ["freecodecamp", "learning"],
 	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
