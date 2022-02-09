@@ -4,7 +4,7 @@
 	"description": "Trying to speedrun this challenge",
 	"keywords": ["freecodecamp", "learning"],
 	"license": "MIT",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -12,7 +12,7 @@
 	"scripts": {
 		"start": "node server.js"
 	},
-	"repository": {
+	s"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	}
