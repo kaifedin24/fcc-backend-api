@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kai Fedin",
 	"description": "Trying to speedrun this challenge",
+	"keywords": ["freecodecamp", "learning"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
